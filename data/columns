@@ -1,1 +1,4 @@
-['Survived', 'Pclass', 'Age', 'SibSp', 'Parch', 'Fare', 'male', 'Q', 'S']
+OG: ['Survived', 'Pclass', 'Age', 'SibSp', 'Parch', 'Fare', 'male', 'Q', 'S']
+NORM: ['Survived', 'male', 'Q', 'S', 'Pclass', 'Age', 'SibSp', 'Parch', 'Fare']
+
+x_train: ['Pclass', 'Age', 'SibSp', 'Parch', 'Fare', 'male', 'Q', 'S']
